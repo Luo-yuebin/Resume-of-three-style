@@ -1,0 +1,14 @@
+.main {
+	font-family: 微软雅黑;
+}
+.title {
+	font-size: 20px;
+	font-weight: bold;
+}
+.FixedHeight {
+	height: 160px;
+	margin-bottom: 15px;
+}
+.based_info,.contact {
+	height: 80px;
+}

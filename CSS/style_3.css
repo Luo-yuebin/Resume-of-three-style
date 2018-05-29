@@ -1,0 +1,47 @@
+.main {
+	width: 1400px;
+	height: 730px;
+	margin: 0 auto;
+	font-family: 微软雅黑;
+	border: 2px solid #D6D6D6;
+}
+h1 {
+	height: 80px;
+	color: white;
+	font-size: 24px;
+	padding-top: 25px;
+	padding-left: 25px;
+	padding-bottom: 25px;
+}
+.resume {
+	width: 1400px;
+	height: 80px;
+	margin-top: -16.08px;
+	background-color: #858585;
+}
+.title {
+	width: 150px;
+	height: 28px;
+	background-color: #D6D6D6;
+	font-size: 20px;
+	font-weight: bold;
+	float: left;
+	text-align: center;
+	padding-top:50px;
+	padding-bottom: 50px;
+	border-bottom: 2px solid white;
+}
+.detail {
+	height: 108px;
+	padding-top: 20px;
+	padding-left: 165px;
+	border-top: 2px solid #D6D6D6;
+}
+.info {
+	width: 1400px;
+	height: 720px;
+	line-height: 23px;
+}
+.fl {
+	float: left;
+}
